@@ -1,7 +1,7 @@
 {
   "name": "astratta-agency",
   "version": "0.1.0",
-  "homepage": "https://astratta-agency.github.io/react-gh-pages",
+  "homepage": "https://astratta-agency.github.io/astratta-agency",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
